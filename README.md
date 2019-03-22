@@ -19,6 +19,11 @@ pip install -r requirements.txt
 
 Contributors / Licensing
 ========================
+*Kieter Philip Balisnomo baslinom
+
+*Referred to previous code for server.py from Assignment 4.
+*Referenced code from https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py for the sockets.py functions.
+
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
