@@ -106,7 +106,7 @@ def read_ws(ws,client):
 
 @sockets.route('/subscribe')
 def subscribe_socket(ws):
-    '''Fufill the websocket URL of /subscribe, every update notify the
+    '''Fulfill the websocket URL of /subscribe, every update notify the
        websocket and read updates from the websocket '''
     client = Client()
     clients.append(client)
